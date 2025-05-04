@@ -6,4 +6,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![Visit Count](https://visitcount.itsvg.in/api?id=swarup-17&icon=1&color=0)](https://visitcount.itsvg.in)
