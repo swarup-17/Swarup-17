@@ -1,6 +1,6 @@
-# 🙋🏻‍♂️ About Me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swarupshedge)
+# 🙋🏻‍♂️ About Me
 
-I'm [Swarup Shedge](https://swarup-portfolio-flame.vercel.app), a passionate full-stack developer.
+I'm [Swarup Shedge](https://linkedin.com/in/swarupshedge), a passionate full-stack developer.
 
 [![image](https://github.com/user-attachments/assets/d0137fe4-ed80-49f3-9534-72766e08a3c5)](https://swarup-portfolio-flame.vercel.app)
 
