@@ -1,5 +1,4 @@
 <div align="center">
-	
 # 🙋🏻‍♂️ About Me
 
 I'm [Swarup Shedge](https://linkedin.com/in/swarupshedge), a passionate full-stack developer.
